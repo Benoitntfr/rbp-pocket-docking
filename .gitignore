@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
+# Large data files (à télécharger séparément)
+data/genomes/
+data/RBPstructures/*.pdb
+outputs/protein/
