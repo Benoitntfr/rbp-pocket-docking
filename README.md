@@ -54,15 +54,6 @@ python scripts/05_umap_cluster.py
 - Structures 3D: prédites via [ESMFold API](https://esmatlas.com/)
 - Pockets: détectés via [P2Rank](https://github.com/rdk/p2rank)
 
-## Roadmap
-
-- [x] Extraction FASTA
-- [ ] Prédiction structures RBP
-- [ ] Détection pockets RBP
-- [ ] Clustering pockets RBP
-- [ ] Structures récepteurs bactériens
-- [ ] Matching pocket × pocket
-
 ## Références
 
 - PhageHostLearn: [Nature Comms 2024](https://doi.org/10.1038/s41467-024-48675-6)
